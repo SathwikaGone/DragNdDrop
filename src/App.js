@@ -6,6 +6,7 @@ import DragAndDrop from "./Components/DragAndDrop";
 const defaultData = [
   { title: "group 1", items: ["1", "2", "3"] },
   { title: "group 2", items: ["4", "5"] },
+  { title: "group 2", items: ["6", "7"] },
 ];
 
 function App() {
